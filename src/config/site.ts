@@ -7,9 +7,9 @@ export const DEFAULT_LOCALE = 'en'
 // Filled in by the site owner. While these are placeholders the contact form
 // does not call EmailJS and asks visitors to phone or WhatsApp instead.
 export const EMAILJS = {
-  serviceId: 'REPLACE_SERVICE_ID',
-  templateId: 'REPLACE_TEMPLATE_ID',
-  publicKey: 'REPLACE_PUBLIC_KEY',
+  serviceId: 'service_cw3aocj',
+  templateId: 'template_r1gn4d6',
+  publicKey: 'xGdd0WXQy-kq81htP',
 }
 
 // Google Analytics 4 measurement ID, for example 'G-XXXXXXXXXX'.
