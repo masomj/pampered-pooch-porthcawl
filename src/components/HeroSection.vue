@@ -62,6 +62,7 @@ const { t } = useI18n()
             id="02"
             :alt="t('hero.leftAlt')"
             sizes="(min-width: 640px) 220px, 38vw"
+            loading="eager"
             class="block aspect-square w-full rounded-[10px] object-cover"
           />
         </div>
@@ -72,6 +73,7 @@ const { t } = useI18n()
             id="08"
             :alt="t('hero.rightAlt')"
             sizes="(min-width: 640px) 210px, 36vw"
+            loading="eager"
             class="block aspect-square w-full rounded-[10px] object-cover"
           />
         </div>

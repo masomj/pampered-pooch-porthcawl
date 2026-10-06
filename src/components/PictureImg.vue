@@ -36,7 +36,7 @@ const fallback = computed(() => `${base}img/dog-${props.id}-${mid.value.width}.j
       :alt="alt"
       :width="mid.width"
       :height="mid.height"
-      :loading="eager ? 'eager' : 'lazy'"
+      :loading="eager ? 'eager' : ($attrs.loading as string) ?? 'lazy'"
       :fetchpriority="eager ? 'high' : undefined"
       decoding="async"
     />
