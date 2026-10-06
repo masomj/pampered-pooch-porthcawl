@@ -1,0 +1,15 @@
+{
+  "name": "Pampered Pooch",
+  "short_name": "Pampered Pooch",
+  "description": "Dog grooming in Porthcawl",
+  "lang": "en-GB",
+  "start_url": "./",
+  "scope": "./",
+  "display": "browser",
+  "background_color": "#FFFFFF",
+  "theme_color": "#32AEB8",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

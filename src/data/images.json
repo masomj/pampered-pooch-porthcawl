@@ -1,0 +1,162 @@
+{
+  "01": {
+    "ratio": [
+      1888,
+      2048
+    ],
+    "sizes": [
+      {
+        "width": 400,
+        "height": 434
+      },
+      {
+        "width": 800,
+        "height": 868
+      },
+      {
+        "width": 1200,
+        "height": 1302
+      }
+    ]
+  },
+  "02": {
+    "ratio": [
+      1976,
+      2048
+    ],
+    "sizes": [
+      {
+        "width": 400,
+        "height": 415
+      },
+      {
+        "width": 800,
+        "height": 829
+      },
+      {
+        "width": 1200,
+        "height": 1244
+      }
+    ]
+  },
+  "03": {
+    "ratio": [
+      1536,
+      2048
+    ],
+    "sizes": [
+      {
+        "width": 400,
+        "height": 533
+      },
+      {
+        "width": 800,
+        "height": 1067
+      },
+      {
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  "04": {
+    "ratio": [
+      1536,
+      2048
+    ],
+    "sizes": [
+      {
+        "width": 400,
+        "height": 533
+      },
+      {
+        "width": 800,
+        "height": 1067
+      },
+      {
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  "05": {
+    "ratio": [
+      1536,
+      2048
+    ],
+    "sizes": [
+      {
+        "width": 400,
+        "height": 533
+      },
+      {
+        "width": 800,
+        "height": 1067
+      },
+      {
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  "06": {
+    "ratio": [
+      1536,
+      2048
+    ],
+    "sizes": [
+      {
+        "width": 400,
+        "height": 533
+      },
+      {
+        "width": 800,
+        "height": 1067
+      },
+      {
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  "07": {
+    "ratio": [
+      1536,
+      2048
+    ],
+    "sizes": [
+      {
+        "width": 400,
+        "height": 533
+      },
+      {
+        "width": 800,
+        "height": 1067
+      },
+      {
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  "08": {
+    "ratio": [
+      1890,
+      1890
+    ],
+    "sizes": [
+      {
+        "width": 400,
+        "height": 400
+      },
+      {
+        "width": 800,
+        "height": 800
+      },
+      {
+        "width": 1200,
+        "height": 1200
+      }
+    ]
+  }
+}

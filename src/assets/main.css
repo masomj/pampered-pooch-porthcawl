@@ -1,0 +1,110 @@
+@import '@fontsource/cormorant-garamond/latin-500.css';
+@import '@fontsource/cormorant-garamond/latin-ext-500.css';
+@import '@fontsource/cormorant-garamond/latin-600.css';
+@import '@fontsource/cormorant-garamond/latin-ext-600.css';
+@import '@fontsource/cormorant-garamond/latin-700.css';
+@import '@fontsource/cormorant-garamond/latin-ext-700.css';
+@import '@fontsource/great-vibes/latin-400.css';
+@import '@fontsource/great-vibes/latin-ext-400.css';
+@import '@fontsource/mulish/latin-400.css';
+@import '@fontsource/mulish/latin-ext-400.css';
+@import '@fontsource/mulish/latin-600.css';
+@import '@fontsource/mulish/latin-ext-600.css';
+@import '@fontsource/mulish/latin-700.css';
+@import '@fontsource/mulish/latin-ext-700.css';
+@import '@fontsource/mulish/latin-800.css';
+@import '@fontsource/mulish/latin-ext-800.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    html {
+      scroll-behavior: smooth;
+    }
+  }
+  body {
+    @apply m-0 bg-white font-sans text-[17px] leading-[1.6] text-ink;
+  }
+  summary {
+    cursor: pointer;
+    list-style: none;
+  }
+  summary::-webkit-details-marker {
+    display: none;
+  }
+  input,
+  select,
+  textarea,
+  button {
+    font: inherit;
+  }
+  :focus-visible {
+    outline: 3px solid #1a6f76;
+    outline-offset: 3px;
+    border-radius: 4px;
+  }
+  /* Light focus ring on dark backgrounds */
+  .on-dark :focus-visible {
+    outline-color: #ffffff;
+  }
+  section[id],
+  main {
+    scroll-margin-top: 0;
+  }
+  [tabindex='-1']:focus {
+    outline: none;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@layer components {
+  .link-pp {
+    color: #1f7f87;
+    text-decoration: underline;
+  }
+  .link-pp:hover {
+    color: #6b1e2a;
+  }
+  .on-dark .link-pp,
+  .on-dark.link-pp {
+    color: #ffffff;
+  }
+  .on-dark .link-pp:hover {
+    color: #f6d7de;
+  }
+  .eyebrow {
+    @apply font-script text-[36px] leading-none text-tealtext;
+  }
+  .h2 {
+    @apply m-0 font-serif text-[clamp(36px,4.4vw,52px)] font-bold leading-[1.05] text-wine;
+  }
+  .container-pp {
+    @apply mx-auto max-w-[1200px] px-6;
+  }
+  .sr-only-pp {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "home": {
+      "title": "Pampered Pooch – Dog Grooming in Porthcawl",
+      "description": "Fully insured, qualified dog groomer on Victoria Avenue, Porthcawl. Full grooms, puppy sessions and bath and tidies. Book by phone, WhatsApp or the form."
+    },
+    "privacy": {
+      "title": "Privacy and cookies – Pampered Pooch",
+      "description": "What the Pampered Pooch enquiry form collects, how it is sent to me by email, and how cookies and Google Analytics are handled on this website."
+    },
+    "notFound": {
+      "title": "Page not found – Pampered Pooch",
+      "description": "This page could not be found. Head back to the Pampered Pooch home page to see grooming services in Porthcawl or to book an appointment."
+    }
+  },
+  "a11y": {
+    "skip": "Skip to main content",
+    "mainNav": "Main",
+    "footerNav": "Footer",
+    "menuOpen": "Menu",
+    "menuClose": "Close menu",
+    "opensInNewTab": "opens in a new tab"
+  },
+  "topbar": {
+    "address": "Victoria Avenue, Porthcawl"
+  },
+  "header": {
+    "home": "Pampered Pooch home",
+    "tagline": "DOG GROOMING · PORTHCAWL",
+    "nav": {
+      "services": "Services",
+      "gallery": "Gallery",
+      "about": "About",
+      "reviews": "Reviews",
+      "faq": "FAQs",
+      "book": "Book a groom"
+    }
+  },
+  "hero": {
+    "badge": "PAMPERED POOCH · EST. 2023",
+    "title": "Dog grooming in Porthcawl",
+    "intro": "Fully insured, qualified dog grooming on Victoria Avenue. Full grooms, bath and tidies, nail clips and puppy sessions, booked by phone, WhatsApp or the form below.",
+    "book": "Book an appointment",
+    "whatsapp": "Message on WhatsApp",
+    "insured": "Fully insured",
+    "qualified": "Qualified groomer",
+    "mainAlt": "A Cockapoo sitting on the grooming table after a full groom at Pampered Pooch",
+    "leftAlt": "Two Cockapoos after their grooms",
+    "rightAlt": "A small white dog lying on the grooming table after a groom",
+    "groomedBy": "GROOMED BY SOPHIE"
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Grooming services",
+    "intro": "Each groom is fitted to your dog's breed and coat, and to the cut you ask for. Prices depend on size and coat condition.",
+    "items": {
+      "fullGroom": {
+        "title": "Full groom",
+        "text": "Bath, blow-dry, brush out, cut and style, nails and ears.",
+        "price": "From £{price}"
+      },
+      "puppy": {
+        "title": "Puppy sessions",
+        "text": "A block of 3 Short, calm sessions that get puppies used to the table, the dryer and the clippers.",
+        "price": "From £{price} per session"
+      },
+      "bathTidy": {
+        "title": "Bath & tidy",
+        "text": "For between full grooms: bath, dry, brush, and a tidy of the face, feet and bottom.",
+        "price": "From £{price}"
+      }
+    }
+  },
+  "gallery": {
+    "eyebrow": "Fresh from the table",
+    "title": "Recent grooms",
+    "facebook": "More photos on Facebook",
+    "alts": {
+      "01": "Two freshly groomed apricot poodle crosses on the grooming table",
+      "02": "Two groomed Cockapoos sitting side by side",
+      "03": "A small grey dog after a full groom",
+      "04": "A Golden Retriever after a bath and tidy",
+      "05": "A Cockapoo with a teddy-style trim",
+      "06": "A black Cocker Spaniel after grooming",
+      "07": "A red and white spaniel on the grooming table",
+      "08": "A small white dog lying on the table after a groom"
+    }
+  },
+  "about": {
+    "eyebrow": "Hello, I'm Sophie",
+    "title": "Your local groomer on Victoria Avenue",
+    "text": "I opened Pampered Pooch on Victoria Avenue in April 2023. I'm a fully insured, qualified dog groomer.",
+    "imageAlt": "A Cockapoo sitting on the grooming table at Pampered Pooch after a full groom",
+    "facts": {
+      "yearValue": "2023",
+      "yearLabel": "Opened on Victoria Avenue",
+      "insuredValue": "Insured",
+      "insuredLabel": "Fully qualified groomer"
+    }
+  },
+  "reviews": {
+    "eyebrow": "Reviews",
+    "title": "What customers say",
+    "facebook": "Read all reviews on Facebook",
+    "items": {
+      "stacey": {
+        "text": "Louie has been coming since he was 14 weeks old and Sophie never disappoints. He always comes out smelling absolutely divine, and whatever cut I ask for, she delivers.",
+        "author": "Stacey E.",
+        "dog": "Louie the Cockapoo"
+      },
+      "rachel": {
+        "text": "Sophie groomed Thiago yesterday and she's done a fantastic job. He is normally extremely nervous around new people but she was so good with him he settled straight in.",
+        "author": "Rachel K.",
+        "dog": "Thiago"
+      },
+      "bec": {
+        "text": "Sophie groomed our over-friendly Cocker Spaniel for the first time this week and he looks absolutely fantastic. We are so pleased with his cut that he is already booked in for his next appointment.",
+        "author": "Bec P.",
+        "dog": "Cocker Spaniel"
+      }
+    }
+  },
+  "how": {
+    "eyebrow": "Booking",
+    "title": "How it works",
+    "steps": {
+      "one": {
+        "title": "Get in touch",
+        "text": "Fill in the form, call, or send a WhatsApp with your dog's breed and what they need."
+      },
+      "two": {
+        "title": "Pick a time",
+        "text": "I'll reply with available times and a price for the groom."
+      },
+      "three": {
+        "title": "Drop off & collect",
+        "text": "Drop your dog off on Victoria Avenue and collect them once they're done."
+      }
+    }
+  },
+  "faq": {
+    "eyebrow": "FAQs",
+    "title": "Frequently asked questions",
+    "items": {
+      "where": {
+        "q": "Where is Pampered Pooch?",
+        "a": "Pampered Pooch is on Victoria Avenue, Porthcawl. [Add full address and parking notes.]"
+      },
+      "insured": {
+        "q": "Are you insured and qualified?",
+        "a": "Yes. I'm a fully insured, qualified dog groomer."
+      },
+      "puppies": {
+        "q": "Do you groom puppies?",
+        "a": "Yes. Puppy sessions get young dogs used to grooming before their first full groom. [Confirm minimum age and vaccinations.]"
+      },
+      "time": {
+        "q": "How long does a groom take?",
+        "a": "[Typical time by size and coat, e.g. 1.5 to 3 hours.]"
+      },
+      "book": {
+        "q": "How do I book?",
+        "a": "Use the enquiry form, call {phone}, or send a WhatsApp. I'll get back to you with available times."
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Get in touch",
+    "title": "Book an appointment",
+    "intro": "Tell me about your dog and I'll get back to you with available times.",
+    "address": "17, Victoria Avenue, Porthcawl",
+    "hours": "By appointment only",
+    "map": "[17, Victoria Avenue, Porthcawl]",
+    "form": {
+      "label": "Enquiry form",
+      "name": "Your name",
+      "phone": "Phone",
+      "email": "Email",
+      "dogName": "Dog's name",
+      "breed": "Breed",
+      "service": "Service",
+      "message": "Anything we should know?",
+      "submit": "Send enquiry",
+      "sending": "Sending…",
+      "sent": "Thanks, your enquiry has been sent. I'll be in touch soon.",
+      "errorSend": "Sorry, your enquiry could not be sent. Please try again, or call or WhatsApp me on {phone}.",
+      "errorUnconfigured": "The enquiry form is not switched on yet. Please call or WhatsApp me on {phone} to book.",
+      "errorSummary": "Please check the highlighted fields.",
+      "errors": {
+        "nameRequired": "Please enter your name.",
+        "emailRequired": "Please enter your email address.",
+        "emailInvalid": "Please enter a valid email address, for example name{'@'}example.com."
+      },
+      "services": {
+        "fullGroom": "Full groom",
+        "puppy": "Puppy session",
+        "bathTidy": "Bath & tidy",
+        "extras": "Nails & extras",
+        "unsure": "Not sure yet"
+      }
+    }
+  },
+  "footer": {
+    "text": "Fully insured, qualified dog grooming on Victoria Avenue, Porthcawl.",
+    "contact": "Contact",
+    "facebook": "Facebook",
+    "copyright": "© 2026 Pampered Pooch Porthcawl",
+    "privacy": "Privacy & cookies",
+    "credit": "Website by"
+  },
+  "cookies": {
+    "label": "Cookie consent",
+    "text": "I would like to use Google Analytics to see how many people visit this website. It only runs if you accept.",
+    "privacy": "Read the privacy and cookies page",
+    "accept": "Accept",
+    "decline": "Decline"
+  },
+  "privacy": {
+    "title": "Privacy and cookies",
+    "updated": "Last updated October 2026.",
+    "sections": {
+      "who": {
+        "title": "Who I am",
+        "text": "This website belongs to Pampered Pooch, a dog grooming business run by Sophie at 17 Victoria Avenue, Porthcawl. I am the person who decides how your details are used."
+      },
+      "form": {
+        "title": "The enquiry form",
+        "text": "If you use the form I collect your name, email address, phone number if you add one, your dog's name and breed, the service you pick and your message. The form is sent to me as an email using a service called EmailJS. I use your details to reply to your enquiry and to arrange your appointment. I do not use them for anything else and I do not sell them.",
+        "keep": "I keep enquiry emails for as long as I need them to deal with your booking and for my business records. You can ask me to delete them at any time."
+      },
+      "cookies": {
+        "title": "Cookies and Google Analytics",
+        "textOff": "This website does not currently use any cookies or analytics, and the cookie banner does not appear.",
+        "textOn": "I would like to use Google Analytics to count visits and see which pages are read. It only loads if you press Accept on the cookie banner, and nothing is set before then. If you press Decline, no analytics are used. Your choice is remembered in your browser. Google Analytics is provided by Google, who process the data it collects.",
+        "change": "Change my cookie choice",
+        "storage": "The only thing this website stores in your browser is your cookie choice."
+      },
+      "rights": {
+        "title": "Your rights",
+        "text": "You can ask to see the details I hold about you, to correct them or to have them deleted. If you are unhappy with how I have handled your details you can also complain to the Information Commissioner's Office at ico.org.uk."
+      },
+      "contact": {
+        "title": "Contact",
+        "text": "For anything about your privacy, email {email} or call {phone}."
+      }
+    },
+    "back": "Back to the home page"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "I could not find that page. It may have moved, or the link may be wrong.",
+    "home": "Back to the home page"
+  }
+}

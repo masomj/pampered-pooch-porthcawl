@@ -1,0 +1,39 @@
+{
+  "name": "pampered-pooch-porthcawl",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Website for Pampered Pooch, dog grooming in Porthcawl",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite-ssg build && node scripts/postbuild.mjs",
+    "preview": "vite preview",
+    "typecheck": "vue-tsc --noEmit",
+    "assets": "node scripts/generate-assets.mjs"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^5.0.2",
+    "@fontsource/cormorant-garamond": "^5.3.0",
+    "@fontsource/great-vibes": "^5.3.0",
+    "@fontsource/mulish": "^5.3.0",
+    "@unhead/vue": "^2.1.17",
+    "vue": "^3.5.43",
+    "vue-i18n": "^11.4.13",
+    "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.13.0",
+    "@intlify/unplugin-vue-i18n": "^11.2.5",
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^26.6.4",
+    "@vitejs/plugin-vue": "^6.0.9",
+    "autoprefixer": "^10.6.1",
+    "postcss": "^8.5.29",
+    "sharp": "^0.35.5",
+    "tailwindcss": "^3.4.19",
+    "typescript": "^6.0.3",
+    "vite": "^8.3.3",
+    "vite-ssg": "^28.3.0",
+    "vue-tsc": "^3.3.12"
+  }
+}

@@ -1,0 +1,27 @@
+# Pampered Pooch
+
+> Pampered Pooch is a one-person dog grooming business in Porthcawl, Wales, run by Sophie. I am a fully insured, qualified dog groomer and I opened on Victoria Avenue in April 2023. Grooming is by appointment only.
+
+## Services and prices
+
+- Full groom: bath, blow-dry, brush out, cut and style, nails and ears. From £40.
+- Puppy sessions: a block of short, calm sessions that get puppies used to the table, the dryer and the clippers. From £30 per session.
+- Bath and tidy: for between full grooms, a bath, dry, brush, and a tidy of the face, feet and bottom. From £25.
+- Prices depend on size and coat condition. I reply to every enquiry with available times and a price for the groom.
+
+## Location
+
+- 17 Victoria Avenue, Porthcawl, Bridgend county, Wales, United Kingdom
+- I groom dogs from Porthcawl, Bridgend, Pyle, Kenfig Hill, Nottage and Cornelly.
+
+## Contact and booking
+
+- Phone and WhatsApp: 07367 926114 (+447367926114)
+- Email: pamperedpoochporthcawl@gmail.com
+- Enquiry form: {{SITE_URL}}/#contact
+- Facebook: https://www.facebook.com/p/PamperedPooch-100091058073419/
+
+## Pages
+
+- [Home, services, gallery, reviews, FAQs and enquiry form]({{SITE_URL}}/)
+- [Privacy and cookies]({{SITE_URL}}/privacy/)
