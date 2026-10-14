@@ -7,7 +7,7 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const dist = path.join(root, 'dist')
 
 // Keep in step with src/config/site.ts
-const SITE_URL = 'https://masomj.github.io/pampered-pooch-porthcawl'
+const SITE_URL = 'https://pamperedpoochporthcawl.co.uk'
 const today = new Date().toISOString().slice(0, 10)
 
 // Prerendered, indexable routes (404 is excluded on purpose)

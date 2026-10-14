@@ -3,8 +3,8 @@ import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import VueI18n from '@intlify/unplugin-vue-i18n/vite'
 
-// GitHub Pages project site. Override with SITE_BASE=/ when a custom domain is attached.
-const base = process.env.SITE_BASE || '/pampered-pooch-porthcawl/'
+// Served from the custom domain root. Set SITE_BASE=/pampered-pooch-porthcawl/ to build for the github.io project URL.
+const base = process.env.SITE_BASE || '/'
 
 export default defineConfig({
   base,

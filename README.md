@@ -1,7 +1,7 @@
 # Pampered Pooch
 
 Website for Pampered Pooch, a one-person dog grooming business in Porthcawl, Wales.
-Live at https://masomj.github.io/pampered-pooch-porthcawl/
+Live at https://pamperedpoochporthcawl.co.uk/
 
 ## Stack
 
@@ -14,7 +14,7 @@ Fonts are self-hosted through @fontsource (Cormorant Garamond, Great Vibes, Muli
 npm ci
 npm run dev        # local dev server
 npm run build      # type check, prerender to dist/, then sitemap, robots, llms.txt and 404.html
-npm run preview    # serve dist/ locally at /pampered-pooch-porthcawl/
+npm run preview    # serve dist/ locally
 npm run assets     # regenerate images, favicons and og-image (needs the original photos, set PP_SRC)
 ```
 
@@ -35,4 +35,4 @@ Create `src/i18n/cy.json`, register it in `src/i18n/index.ts`, add `cy` to `LOCA
 ## Deployment
 
 Pushing to `main` runs `.github/workflows/deploy.yml`, which builds and publishes `dist/` to GitHub Pages.
-`SITE_BASE` (default `/pampered-pooch-porthcawl/`) sets the Vite base. For a custom domain set `SITE_BASE=/`, change `SITE_URL` in `src/config/site.ts` and in `scripts/postbuild.mjs`, and add a `public/CNAME`.
+The site is served from the root of pamperedpoochporthcawl.co.uk (`public/CNAME`, `SITE_URL` in `src/config/site.ts` and `scripts/postbuild.mjs`). `SITE_BASE` sets the Vite base and defaults to `/`.

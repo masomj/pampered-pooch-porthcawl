@@ -1,6 +1,6 @@
 // Central site configuration. Copy lives in src/i18n/en.json, everything else that may change lives here.
 
-export const SITE_URL = 'https://masomj.github.io/pampered-pooch-porthcawl'
+export const SITE_URL = 'https://pamperedpoochporthcawl.co.uk'
 export const SITE_NAME = 'Pampered Pooch'
 export const DEFAULT_LOCALE = 'en'
 
