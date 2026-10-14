@@ -144,7 +144,7 @@
     "items": {
       "where": {
         "q": "Where is Pampered Pooch?",
-        "a": "Pampered Pooch is on Victoria Avenue, Porthcawl. [Add full address and parking notes.]"
+        "a": "Pampered Pooch is at 17 Victoria Avenue, Porthcawl."
       },
       "insured": {
         "q": "Are you insured and qualified?",
@@ -152,11 +152,11 @@
       },
       "puppies": {
         "q": "Do you groom puppies?",
-        "a": "Yes. Puppy sessions get young dogs used to grooming before their first full groom. [Confirm minimum age and vaccinations.]"
+        "a": "Yes. Puppies start with 3 warm-up sessions that ease them into grooming before their first full groom."
       },
       "time": {
         "q": "How long does a groom take?",
-        "a": "[Typical time by size and coat, e.g. 1.5 to 3 hours.]"
+        "a": "A typical groom takes about 2 hours."
       },
       "book": {
         "q": "How do I book?",
@@ -168,9 +168,9 @@
     "eyebrow": "Get in touch",
     "title": "Book an appointment",
     "intro": "Tell me about your dog and I'll get back to you with available times.",
-    "address": "17, Victoria Avenue, Porthcawl",
+    "address": "17 Victoria Avenue, Porthcawl",
     "hours": "By appointment only",
-    "map": "[17, Victoria Avenue, Porthcawl]",
+    "mapTitle": "Map showing Pampered Pooch at 17 Victoria Avenue, Porthcawl",
     "form": {
       "label": "Enquiry form",
       "name": "Your name",
@@ -230,10 +230,10 @@
       },
       "cookies": {
         "title": "Cookies and Google Analytics",
-        "textOff": "This website does not currently use any cookies or analytics, and the cookie banner does not appear.",
-        "textOn": "I would like to use Google Analytics to count visits and see which pages are read. It only loads if you press Accept on the cookie banner, and nothing is set before then. If you press Decline, no analytics are used. Your choice is remembered in your browser. Google Analytics is provided by Google, who process the data it collects.",
+        "textOff": "This website does not currently use any analytics, and the cookie banner does not appear. The map on the contact section is provided by Google Maps. When it loads, Google may set its own cookies and receives your IP address.",
+        "textOn": "I would like to use Google Analytics to count visits and see which pages are read. It only loads if you press Accept on the cookie banner, and nothing is set before then. If you press Decline, no analytics are used. Your choice is remembered in your browser. Google Analytics is provided by Google, who process the data it collects. The map on the contact section is provided by Google Maps. When it loads, Google may set its own cookies and receives your IP address.",
         "change": "Change my cookie choice",
-        "storage": "The only thing this website stores in your browser is your cookie choice."
+        "storage": "Apart from the Google Maps cookies above, the only thing this website stores in your browser is your cookie choice."
       },
       "rights": {
         "title": "Your rights",

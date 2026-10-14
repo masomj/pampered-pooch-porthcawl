@@ -161,11 +161,13 @@ const labelClass = 'text-[15px] font-bold'
             </component>
           </li>
         </ul>
-        <div
-          class="box-border flex h-60 items-center justify-center rounded-3xl border-2 border-dashed border-[#8CC9CF] bg-mist p-4 text-center font-bold text-tealtext-dark"
-        >
-          {{ t('contact.map') }}
-        </div>
+        <iframe
+          :title="t('contact.mapTitle')"
+          src="https://www.google.com/maps?q=17+Victoria+Avenue,+Porthcawl&amp;z=16&amp;output=embed"
+          class="block h-60 w-full rounded-3xl border-0 bg-mist"
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+        ></iframe>
       </div>
 
       <form
